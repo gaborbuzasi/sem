@@ -1,4 +1,5 @@
 # Software Engineering Methods
-Napier GLA - Software Engineering Methods (SEM)
 
-[![Build Status](https://travis-ci.org/gaborbuzasi/sem.svg?branch=master)](https://travis-ci.org/gaborbuzasi/sem)
+- Master Build Status [![Build Status](https://travis-ci.org/gaborbuzasi/sem.svg?branch=master)](https://travis-ci.org/kevin-chalmers/sem)
+- License [![LICENSE](https://img.shields.io/github/license/gaborbuzasi/sem.svg?style=flat-square)](https://github.com/kevin-chalmers/sem/blob/master/LICENSE)
+- Release [![Releases](https://img.shields.io/github/release/gaborbuzasi/sem/all.svg?style=flat-square)](https://github.com/kevin-chalmers/sem/releases)
